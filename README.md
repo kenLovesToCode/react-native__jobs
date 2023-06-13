@@ -16,8 +16,8 @@ $ expo-cli start --tunnel
 $ expo publish
 
 # download expo and scan this to view the app
-[KenJobs](https://expo.dev/@kenlovestocodee/jobs-app?serviceType=classic&distribution=expo-go)
 ```
+[KenJobs](https://expo.dev/@kenlovestocodee/jobs-app?serviceType=classic&distribution=expo-go)
 
 ## 📝 Notes
 
